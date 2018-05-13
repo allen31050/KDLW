@@ -1,0 +1,317 @@
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 270s - loss: 0.3191 - acc: 0.8973 - val_loss: 0.2585 - val_acc: 0.9084
+ - AUC - score: 0.77897
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 262s - loss: 0.2547 - acc: 0.9103 - val_loss: 0.2326 - val_acc: 0.9136
+ - AUC - score: 0.81984
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2388 - acc: 0.9133 - val_loss: 0.2267 - val_acc: 0.9157
+ - AUC - score: 0.82517
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2358 - acc: 0.9143 - val_loss: 0.2273 - val_acc: 0.9154
+ - AUC - score: 0.82633
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2342 - acc: 0.9148 - val_loss: 0.2275 - val_acc: 0.9147
+ - AUC - score: 0.82783
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2337 - acc: 0.9149 - val_loss: 0.2249 - val_acc: 0.9160
+ - AUC - score: 0.82920
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2323 - acc: 0.9154 - val_loss: 0.2242 - val_acc: 0.9159
+ - AUC - score: 0.82956
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2314 - acc: 0.9157 - val_loss: 0.2234 - val_acc: 0.9165
+ - AUC - score: 0.83085
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2312 - acc: 0.9155 - val_loss: 0.2264 - val_acc: 0.9166
+ - AUC - score: 0.83249
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2309 - acc: 0.9157 - val_loss: 0.2230 - val_acc: 0.9170
+ - AUC - score: 0.83191
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2303 - acc: 0.9158 - val_loss: 0.2225 - val_acc: 0.9170
+ - AUC - score: 0.83294
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2296 - acc: 0.9159 - val_loss: 0.2225 - val_acc: 0.9173
+ - AUC - score: 0.83326
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2293 - acc: 0.9163 - val_loss: 0.2219 - val_acc: 0.9171
+ - AUC - score: 0.83287
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2299 - acc: 0.9161 - val_loss: 0.2223 - val_acc: 0.9169
+ - AUC - score: 0.83436
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2289 - acc: 0.9161 - val_loss: 0.2222 - val_acc: 0.9172
+ - AUC - score: 0.83454
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 262s - loss: 0.2290 - acc: 0.9160 - val_loss: 0.2222 - val_acc: 0.9171
+ - AUC - score: 0.83573
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 262s - loss: 0.2287 - acc: 0.9163 - val_loss: 0.2216 - val_acc: 0.9170
+ - AUC - score: 0.83494
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2289 - acc: 0.9162 - val_loss: 0.2227 - val_acc: 0.9169
+ - AUC - score: 0.83465
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2284 - acc: 0.9163 - val_loss: 0.2220 - val_acc: 0.9166
+ - AUC - score: 0.83585
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2275 - acc: 0.9165 - val_loss: 0.2224 - val_acc: 0.9165
+ - AUC - score: 0.83589
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2283 - acc: 0.9164 - val_loss: 0.2228 - val_acc: 0.9162
+ - AUC - score: 0.83699
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2267 - acc: 0.9169 - val_loss: 0.2208 - val_acc: 0.9173
+ - AUC - score: 0.83728
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2272 - acc: 0.9166 - val_loss: 0.2199 - val_acc: 0.9172
+ - AUC - score: 0.83974
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2271 - acc: 0.9171 - val_loss: 0.2193 - val_acc: 0.9176
+ - AUC - score: 0.83975
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2256 - acc: 0.9171 - val_loss: 0.2191 - val_acc: 0.9174
+ - AUC - score: 0.84387
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2259 - acc: 0.9169 - val_loss: 0.2168 - val_acc: 0.9180
+ - AUC - score: 0.84614
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2254 - acc: 0.9171 - val_loss: 0.2169 - val_acc: 0.9174
+ - AUC - score: 0.84939
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2239 - acc: 0.9176 - val_loss: 0.2188 - val_acc: 0.9174
+ - AUC - score: 0.85248
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2242 - acc: 0.9175 - val_loss: 0.2164 - val_acc: 0.9180
+ - AUC - score: 0.85453
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2240 - acc: 0.9172 - val_loss: 0.2173 - val_acc: 0.9181
+ - AUC - score: 0.85515
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2233 - acc: 0.9176 - val_loss: 0.2178 - val_acc: 0.9186
+ - AUC - score: 0.85657
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2230 - acc: 0.9177 - val_loss: 0.2182 - val_acc: 0.9179
+ - AUC - score: 0.85421
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2223 - acc: 0.9177 - val_loss: 0.2155 - val_acc: 0.9182
+ - AUC - score: 0.85779
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2217 - acc: 0.9178 - val_loss: 0.2142 - val_acc: 0.9184
+ - AUC - score: 0.85858
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2216 - acc: 0.9180 - val_loss: 0.2133 - val_acc: 0.9190
+ - AUC - score: 0.85831
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2211 - acc: 0.9179 - val_loss: 0.2167 - val_acc: 0.9183
+ - AUC - score: 0.85301
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2215 - acc: 0.9178 - val_loss: 0.2136 - val_acc: 0.9184
+ - AUC - score: 0.85797
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2196 - acc: 0.9183 - val_loss: 0.2132 - val_acc: 0.9185
+ - AUC - score: 0.86086
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2200 - acc: 0.9184 - val_loss: 0.2112 - val_acc: 0.9187
+ - AUC - score: 0.86171
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 260s - loss: 0.2196 - acc: 0.9184 - val_loss: 0.2121 - val_acc: 0.9188
+ - AUC - score: 0.86115
+AUC score not improved
+
+
+Stopped
+
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 268s - loss: 0.2206 - acc: 0.9181 - val_loss: 0.2117 - val_acc: 0.9188
+ - AUC - score: 0.86135
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 261s - loss: 0.2197 - acc: 0.9183 - val_loss: 0.2133 - val_acc: 0.9187
+ - AUC - score: 0.86035
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2195 - acc: 0.9184 - val_loss: 0.2117 - val_acc: 0.9188
+ - AUC - score: 0.86157
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2194 - acc: 0.9184 - val_loss: 0.2121 - val_acc: 0.9191
+ - AUC - score: 0.86087
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2181 - acc: 0.9187 - val_loss: 0.2135 - val_acc: 0.9190
+ - AUC - score: 0.85700
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2187 - acc: 0.9187 - val_loss: 0.2145 - val_acc: 0.9182
+ - AUC - score: 0.85959
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2187 - acc: 0.9187 - val_loss: 0.2120 - val_acc: 0.9186
+ - AUC - score: 0.86245
+AUC score improved, model saved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 259s - loss: 0.2183 - acc: 0.9188 - val_loss: 0.2136 - val_acc: 0.9189
+ - AUC - score: 0.86010
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2183 - acc: 0.9186 - val_loss: 0.2130 - val_acc: 0.9183
+ - AUC - score: 0.86220
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 257s - loss: 0.2179 - acc: 0.9187 - val_loss: 0.2114 - val_acc: 0.9191
+ - AUC - score: 0.86108
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2171 - acc: 0.9190 - val_loss: 0.2157 - val_acc: 0.9173
+ - AUC - score: 0.86148
+AUC score not improved
+
+Train on 51444 samples, validate on 5715 samples
+Epoch 1/1
+ - 258s - loss: 0.2174 - acc: 0.9191 - val_loss: 0.2151 - val_acc: 0.9189
+ - AUC - score: 0.86164
+AUC score not improved
+
+Early stopping...
